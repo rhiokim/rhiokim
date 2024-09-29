@@ -10,7 +10,8 @@
 - ⚡ Fun fact:
   - MBTI
   - Zodiac sign
-  - Real estate 
+  - Real estate
+  - Markdown, Editor
 
 <!--
 - 👯 I’m looking to collaborate on ...
