@@ -1,16 +1,20 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working
+  - okky.kr
+- 🌱 I’m currently learning
+  - computing, engineering, distributed system, architecture and AI, LLM
+- 📫 How to reach me:
+  - x.com/rhiokim
+  - linkedin.com/in/rhiokim
+- ⚡ Fun fact:
+  - MBTI
+  - Zodiac sign
+  - Real estate 
+
 <!--
-**rhiokim/rhiokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
