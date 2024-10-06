@@ -13,6 +13,10 @@
   - Real estate
   - Markdown, Editor
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,figma,styledcomponents,js,html,css,electron,deno,nestjs,postgresql,redis,prisma,supabase,git,markdown,aws,githubactions,docker,raspberrypi,vercel,sentry)](https://skillicons.dev)
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
