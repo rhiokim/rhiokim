@@ -8,7 +8,8 @@
   - x.com/rhiokim
   - linkedin.com/in/rhiokim
 - ⚡ Fun fact:
-  - MBTI
+  - Data-Intensive Design 
+  - MBTI - INFJ
   - Zodiac sign
   - Real estate
   - Markdown, Editor
