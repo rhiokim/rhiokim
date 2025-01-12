@@ -2,12 +2,13 @@
 
 - 🔭 I’m currently working
   - okky.kr
+  - block editor
 - 🌱 I’m currently learning
   - computing, engineering, distributed system, architecture and AI, LLM
 - 📫 How to reach me:
   - x.com/rhiokim
   - linkedin.com/in/rhiokim
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
   - Data-Intensive Design 
   - MBTI - INFJ
   - Zodiac sign
