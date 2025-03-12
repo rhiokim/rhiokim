@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working
+  - 🎯 on the Haroopad site renewal
   - okky.kr
   - block editor
 - 🌱 I’m currently learning
