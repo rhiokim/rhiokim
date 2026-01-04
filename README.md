@@ -12,7 +12,7 @@
 - ⚡ Fun fact: 
   - Data-Intensive Design 
   - MBTI - INFJ
-  - Zodiac sign
+  - Zodiac sign - Libra
   - Real estate
   - Markdown, Editor
 
