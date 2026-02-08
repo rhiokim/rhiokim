@@ -9,10 +9,11 @@
 - 📫 How to reach me:
   - x.com/rhiokim
   - linkedin.com/in/rhiokim
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+  - AX
   - Data-Intensive Design 
   - MBTI - INFJ
-  - Zodiac sign - Libra
+  - Zodiac sign, Astrology - Libra
   - Real estate
   - Markdown, Editor
 
